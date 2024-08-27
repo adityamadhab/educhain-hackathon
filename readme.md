@@ -1,4 +1,4 @@
-# ![Project Logo](./logo.png)  
+# ![Project Logo](https://github.com/adityamadhab/educhain-hackathon/blob/main/logo.png)  
 # Blockchain-Based School Management
 
 ## Description
