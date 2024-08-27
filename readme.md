@@ -6,6 +6,7 @@ The Blockchain-Based School Management aims to create a decentralized, transpare
 
 ## Smart Contract Flowchart
 
+```plaintext
 +------------------------------------+
 |          School Management         |
 +------------------------------------+
