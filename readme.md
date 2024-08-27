@@ -1,4 +1,4 @@
-# ![Project Logo](/logo.png)  
+# ![Project Logo](./logo.png)  
 # Blockchain-Based School Management
 
 ## Description
