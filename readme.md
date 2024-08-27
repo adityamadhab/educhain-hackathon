@@ -27,7 +27,6 @@ The Blockchain-Based School Management aims to create a decentralized, transpare
 | Access Data |      | Access Data |
 |  (Student)  |      |  (Teacher)  |
 +-------------+      +-------------+
-```
 
 ## Contract Details
 
